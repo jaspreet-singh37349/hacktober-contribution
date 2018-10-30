@@ -1,7 +1,7 @@
 //it will print cheapest book
 #include<iostream>
 using namespace std;
-
+//class book
 class book
 {
 	int price;
