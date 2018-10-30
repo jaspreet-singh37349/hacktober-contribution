@@ -11,7 +11,7 @@ int greater(int a,int b)
 {
 	if(a>b)
 	{
-		return a;//a will be greater number
+		return a;  //a will return greater number
 	}
 	
 	else
