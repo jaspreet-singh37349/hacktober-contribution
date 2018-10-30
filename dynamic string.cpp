@@ -6,7 +6,7 @@ using namespace std;
 //class str
 class str
 {
-	char *name;
+	char *name;//string
 	int len;
 	public:
 		str(char *s)
